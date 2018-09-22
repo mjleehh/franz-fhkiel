@@ -1,0 +1,12 @@
+{
+  "id": "emailfhkiel",
+  "name": "FH Kiel Mail",
+  "version": "1.0.0",
+  "description": "mail service of Fachhochschule kiel",
+  "main": "index.js",
+  "author": "Michael Jonathan Lee <projects.mjlee@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://email.fh-kiel.de"
+  }
+}
