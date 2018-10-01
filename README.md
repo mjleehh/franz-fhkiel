@@ -1,6 +1,8 @@
 # Fachhochschule Kiel Franz Integration
 This is the [Franz](https://meetfranz.com/) integration of the Fachhochschule Kiel mail service.
 
+![counter screenshot](resources/franz-screenshot.png)
+
 ### Installation
 
 1. Make sure the following folder exists:
